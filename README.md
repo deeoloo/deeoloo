@@ -35,7 +35,7 @@ _Stay tuned!_
 
 ## 📫 How to Reach Me
 - ✉️ Email: [doreenoloo2@gmail.com](mailto:doreenoloo2@gmail.com)
-- 💼 LinkedIn: _[www.linkedin.com/in/dorine-oloo-53489433a]_
+- 💼 LinkedIn: _[https://www.linkedin.com/in/dorine-oloo/]_
 
 ---
 
