@@ -6,7 +6,7 @@
 
 ## 🌱 What I’m Learning
 - Frontend: HTML | CSS | JavaScript | React
-- Backend: Node.js 
+- Backend: Python | Flask | PostgreSQL
 - Version Control: Git & GitHub
 - Tools: VS Code | Postman
 
