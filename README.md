@@ -2,8 +2,6 @@
 
 🎓 I’m currently a **Full-Stack Software Development student at Moringa School**, passionate about building impactful digital experiences.
 
-💪 My current project is a **Gym App** designed to provide everything a fitness enthusiast needs — from workout tracking to meal planning and class bookings.
-
 ---
 
 ## 🌱 What I’m Learning
@@ -11,18 +9,6 @@
 - Backend: Node.js 
 - Version Control: Git & GitHub
 - Tools: VS Code | Postman
-
----
-
-## 🚀 Projects I'm Working On
-### 🏋️ Gym App (in development)
-An all-in-one fitness platform for gym users, featuring:
-- Workout planner
-- Nutrition tracker
-- Gym products
-- A community
-
-_Stay tuned!_
 
 ---
 
